@@ -1,6 +1,6 @@
 [![Members](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=&logo=discord&logoColor=white&labelColor=black&color=%23f3f3f3&query=$.approximate_member_count&url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2FENB7RbxVZE%3Fwith_counts%3Dtrue)](https://discord.gg/ENB7RbxVZE)&nbsp;[![Documentation](https://img.shields.io/badge/Documentation-black?style=for-the-badge)](https://shedov.top/documentation-crystal/)&nbsp;[![Developer’s Diary](https://img.shields.io/badge/Developer’s_Diary-black?style=for-the-badge)](https://shedov.top/category/crystal/crystal-developers-diary/)
 
-# Experimental prototypes developed for testing various technologies prior to integration into the core CRYSTAL system
+# Experimental prototypes developed for testing various technologies prior to integration into the core CRYSTAL
 
 ### CRUD Operations:<br>
 **[Enter Text (SAHAR)](https://github.com/AndrewShedov/enter-text--SAHAR)** [![Stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FAndrewShedov%2Fenter-text--SAHAR&query=%24.stargazers_count&label=%E2%AD%90&color=black&labelColor=black)](https://github.com/AndrewShedov/enter-text--SAHAR)<br>
