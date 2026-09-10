@@ -3,10 +3,8 @@
 # Experimental prototypes developed for testing various technologies prior to integration into the core CRYSTAL
 
 ### CRUD Operations:<br>
-**[Enter Text (SAHAR)](https://github.com/AndrewShedov/enter-text--SAHAR)** [![Stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FAndrewShedov%2Fenter-text--SAHAR&query=%24.stargazers_count&label=%E2%AD%90&color=black&labelColor=black)](https://github.com/AndrewShedov/enter-text--SAHAR)<br>
-**[Enter Text (LARS)](https://github.com/AndrewShedov/enter-text--LARS)** [![Stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FAndrewShedov%2Fenter-text--LARS&query=%24.stargazers_count&label=%E2%AD%90&color=black&labelColor=black)](https://github.com/AndrewShedov/enter-text--LARS)
-
-
+<a href="https://github.com/AndrewShedov/enter-text--SAHAR">Enter Text (SAHAR)</a> &nbsp;<a href="https://github.com/AndrewShedov/enter-text--SAHAR"><img src="https://img.shields.io/github/stars/AndrewShedov/enter-text--SAHAR?color=white&labelColor=white&label=%E2%AD%90&style=flat" alt="Stars" valign="middle"></a><br>
+<a href="https://github.com/AndrewShedov/enter-text--LARS">Enter Text (LARS)</a> &nbsp;<a href="https://github.com/AndrewShedov/enter-text--LARS"><img src="https://img.shields.io/github/stars/AndrewShedov/enter-text--LARS?color=white&labelColor=white&label=%E2%AD%90&style=flat" alt="Stars" valign="middle"></a>
 
 
 <br>
