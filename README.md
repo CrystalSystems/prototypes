@@ -3,8 +3,18 @@
 # Experimental prototypes developed for testing various technologies prior to integration into the core CRYSTAL
 
 ### CRUD Operations:<br>
-<a href="https://github.com/AndrewShedov/enter-text--SAHAR">Enter Text (SAHAR)</a> &nbsp;<a href="https://github.com/AndrewShedov/enter-text--SAHAR"><img src="https://img.shields.io/github/stars/AndrewShedov/enter-text--SAHAR?color=white&labelColor=white&label=%E2%AD%90&style=flat" alt="Stars" valign="middle"></a><br>
-<a href="https://github.com/AndrewShedov/enter-text--LARS">Enter Text (LARS)</a> &nbsp;<a href="https://github.com/AndrewShedov/enter-text--LARS"><img src="https://img.shields.io/github/stars/AndrewShedov/enter-text--LARS?color=white&labelColor=white&label=%E2%AD%90&style=flat" alt="Stars" valign="middle"></a>
+<h4 style="margin-bottom: 0;"><img src="https://cdn.simpleicons.org/rust/E36A15" height="18" valign="middle">🍬&nbsp;SAHAR</h4>
+<ul style="margin-top: 0; margin-bottom: 20px;">
+<li>
+<a href="https://github.com/AndrewShedov/enter-text--SAHAR">Enter Text</a> &nbsp;<a href="https://github.com/AndrewShedov/enter-text--SAHAR"><img src="https://img.shields.io/github/stars/AndrewShedov/enter-text--SAHAR?color=white&labelColor=white&label=%E2%AD%90&style=flat" alt="Stars" valign="middle"></a>
+</li>
+</ul>
+<h4 style="margin-bottom: 0;"><img src="https://cdn.simpleicons.org/rust/E36A15" height="18" valign="middle">&nbsp;LARS</h4>
+<ul style="margin-top: 0;">
+<li>
+<a href="https://github.com/AndrewShedov/enter-text--LARS">Enter Text</a> &nbsp;<a href="https://github.com/AndrewShedov/enter-text--LARS"><img src="https://img.shields.io/github/stars/AndrewShedov/enter-text--LARS?color=white&labelColor=white&label=%E2%AD%90&style=flat" alt="Stars" valign="middle"></a>
+</li>
+</ul>
 
 
 <br>
