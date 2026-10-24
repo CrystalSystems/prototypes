@@ -6,7 +6,7 @@
 <h4 style="margin-bottom: 0;"><img src="https://cdn.simpleicons.org/rust/E36A15" height="18" valign="middle">🍬&nbsp;SAHAR</h4>
 <ul style="margin-top: 0; margin-bottom: 20px;">
 <li>
-<a href="https://github.com/AndrewShedov/enter-text--SAHAR">Enter Text</a> &nbsp;<a href="https://github.com/AndrewShedov/enter-text--SAHAR"></a>
+<a href="https://github.com/AndrewShedov/enter-text--SAHAR">🍬 Enter Text</a> &nbsp;<a href="https://github.com/AndrewShedov/enter-text--SAHAR"></a>
 </li>
 </ul>
 <h4 style="margin-bottom: 0;"><img src="https://cdn.simpleicons.org/rust/E36A15" height="18" valign="middle">&nbsp;LARS</h4>
