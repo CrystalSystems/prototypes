@@ -2,20 +2,25 @@
 
 # Experimental prototypes developed for testing various technologies prior to integration into the core CRYSTAL
 
-### CRUD Operations:<br>
+### CRUD, SPA Routing, Infinite Scroll & SEO:<br>
+<h4 style="margin-bottom: 0;"><img src="https://cdn.simpleicons.org/rust/E36A15" height="18" valign="middle">🍬&nbsp;SAHAR</h4>
+<ul style="margin-top: 0; margin-bottom: 25px;">
+<li>
+<a href="https://github.com/AndrewShedov/add-post--SAHAR">🍬 Add Post</a>
+</li> 
+</ul>
+
+### CRUD & SEO:<br>
 <h4 style="margin-bottom: 0;"><img src="https://cdn.simpleicons.org/rust/E36A15" height="18" valign="middle">🍬&nbsp;SAHAR</h4>
 <ul style="margin-top: 0; margin-bottom: 20px;">
 <li>
-<a href="https://github.com/AndrewShedov/add-post--SAHAR">🍬 Add Post</a> &nbsp;<a href="https://github.com/AndrewShedov/add-post--SAHAR"></a>
-</li> 
-<li>
-<a href="https://github.com/AndrewShedov/enter-text--SAHAR">🍬 Enter Text</a> &nbsp;<a href="https://github.com/AndrewShedov/enter-text--SAHAR"></a>
+<a href="https://github.com/AndrewShedov/enter-text--SAHAR">🍬 Enter Text</a>
 </li>
 </ul>
 <h4 style="margin-bottom: 0;"><img src="https://cdn.simpleicons.org/rust/E36A15" height="18" valign="middle">&nbsp;LARS</h4>
 <ul style="margin-top: 0;">
 <li>
-<a href="https://github.com/AndrewShedov/enter-text--LARS">Enter Text</a> &nbsp;<a href="https://github.com/AndrewShedov/enter-text--LARS"></a>
+<a href="https://github.com/AndrewShedov/enter-text--LARS">Enter Text</a>
 </li>
 </ul>
 
