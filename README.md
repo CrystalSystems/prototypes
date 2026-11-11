@@ -6,7 +6,7 @@
 <h4 style="margin-bottom: 0;"><img src="https://cdn.simpleicons.org/rust/E36A15" height="18" valign="middle">🍬&nbsp;SAHAR</h4>
 <ul style="margin-top: 0; margin-bottom: 25px;">
 <li>
-<a href="https://github.com/AndrewShedov/add-post--SAHAR">Add Post</a>
+<a href="https://github.com/AndrewShedov/add-post--SAHAR">Add Post</a> ⭐
 </li> 
 </ul>
 
