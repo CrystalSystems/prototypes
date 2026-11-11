@@ -29,7 +29,7 @@
 <h3 align="center">CRYSTAL is tested on</h3>
 <p align="center">
   <a href="https://www.browserstack.com/">
-    <img src="https://raw.githubusercontent.com/CrystalSystems/crystal-v1.0/b753d0d08a3630720d92dc139ee6255f0375cad3/assets/browserstack_logo.svg" width="290" />
+    <img src="https://raw.githubusercontent.com/CrystalSystems/crystal-v1.0/refs/heads/main/assets/browserstack_logo.svg" width="290" />
   </a>
 </p>
 <br>
